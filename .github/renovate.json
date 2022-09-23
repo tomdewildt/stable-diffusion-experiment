@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "dependencyDashboard": false,
+  "pip_requirements": {
+    "fileMatch": [
+      "(^|\/)requirements\/.*.(txt|pip)$"
+    ]
+  }
+}
