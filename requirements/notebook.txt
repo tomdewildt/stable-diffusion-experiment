@@ -1,4 +1,4 @@
-diffusers==0.6.0
+diffusers==0.7.2
 jupyterlab==3.5.0
 matplotlib==3.6.1
 scipy==1.9.3
