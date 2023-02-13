@@ -2,4 +2,4 @@ diffusers==0.12.1
 jupyterlab==3.6.0
 matplotlib==3.6.3
 scipy==1.10.0
-transformers==4.26.0
+transformers==4.26.1
